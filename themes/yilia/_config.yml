@@ -25,7 +25,7 @@ rss: /atom.xml
 root: 
 
 # Content
-excerpt_link: more
+excerpt_link: 更多内容
 fancybox: true
 mathjax: false
 
