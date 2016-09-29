@@ -37,10 +37,10 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /images/favicon.png
 
 #你的头像url
-avatar:
+avatar: /images/avatar.png
 
 #是否开启分享
 share_jia: true
