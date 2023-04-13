@@ -2,14 +2,14 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔
+ # 随笔: /tags/随笔
 
 # SubNav
 subnav:
-  github: "https://github.com/angus3gao"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  #github: "https://github.com/angus3gao"
+  #weibo: "#"
+  #rss: "#"
+  #`zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -43,7 +43,7 @@ favicon: /images/favicon.png
 avatar: /images/avatar.png
 
 #是否开启分享
-share_jia: true
+share_jia: false
 share_addthis: false
 
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
@@ -58,10 +58,10 @@ duoshuo: false
 smart_menu:
   innerArchive: '所有文章'
   tagcloud: '标签'
-  friends: '友链'
-  aboutme: '关于我'
+#friends: '友链'
+  aboutme: '关于猪'
 
 friends:
   Litten博客: http://litten.github.io
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 甜蜜有你<br><br>感恩有你，猪谢谢你给了我阳光<br>谢谢大猪
