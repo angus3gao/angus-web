@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Angus博客
+title: Angus&猪
 subtitle:
 description: 细心生活 反思总结
 author: Angus Gao
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: Yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
