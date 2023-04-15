@@ -1,5 +1,5 @@
 ---
-title: 椒爷与叔
+title: 与辣椒
 date: 2023-4-13 18:31:31
 tags: 懒猪
 categories:
