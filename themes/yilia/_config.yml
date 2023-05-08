@@ -63,5 +63,8 @@ smart_menu:
 
 friends:
   Litten博客: http://litten.github.io
-
 aboutme: 甜蜜有你<br><br>感恩有你，猪谢谢你给了我阳光<br>谢谢大猪
+music:
+  enable: false
+  id: 569213220  # 网易云分享的ID
+  autoplay: true  # 是否开启自动播放

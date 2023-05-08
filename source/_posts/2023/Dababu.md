@@ -8,10 +8,13 @@ description:
 椒爷生气了、二维码伺候
 <!--more-->
 人生第一次手画二维码
+先上万恶的二维码，当初是哪个玩意想出来的
+![Erweima01](/images/2023/erweima01.jpeg)
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1901590235&auto=1&height=66"></iframe>
 。。。。。。
 此处省略一万字
 暂时啥都不想说
 好像还有很多不忍直视的照片
 我的天
+![Erweima02](/images/2023/erweima02.jpeg)
 。。。。。。
