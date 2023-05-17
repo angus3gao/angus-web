@@ -1,12 +1,13 @@
 ---
 title: 再见上海、走啦辣椒(明珠之下终)
-date: 2023-5-09 22:28:00
+date: 2023-5-17 20:50:00
 tags: 懒猪
 categories:
 description:
 ---
 上海再见了, 也开始吧
 <!--more-->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=3819483&auto=1&height=66"></iframe>
 不得不感叹时间的短暂、相处的日子过的总是这么快
 假期结束、送别椒爷，期待下次再见
 今天、该是我和上海说再见的时候了
@@ -19,3 +20,10 @@ description:
 椒爷说往东，那世界就只有东
 辣椒、做我女朋友
 用我的余生爱你
+-----------------------------------
+今天椒爷生日，送上最最真挚的祝福
+愿永远年轻漂亮、开心每一天
+余生往后、往后余生
+只会是你、只能是你
+
+
